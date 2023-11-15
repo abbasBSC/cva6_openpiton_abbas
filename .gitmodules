@@ -54,4 +54,5 @@
 	url = https://github.com/pulp-platform/common_verification.git
 [submodule "cv-hpdcache"]
 	path = cv-hpdcache
-	url = https://github.com/AileonN/cv-hpdcache_noliete.git
+	url = git@github.com:abbasBSC/cv-hpdcache_abbas.git
+	branch = L15_MSHR_ASSOCIATIVITY
